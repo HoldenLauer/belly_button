@@ -1,0 +1,15 @@
+body {
+
+    background-color: rgb(43, 66, 129);
+  }
+
+  .jumbotron {
+    background-image: url("sceince.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
+
+  .tag {
+    font-family: inherit; 
+    font-size: 1rem;
+   }  
